@@ -1,0 +1,10 @@
+C:\Users\jesus\source\repos\ejemplo de problema real\ejemplo de problema real\bin\Debug\ejemplo de problema real.exe.config
+C:\Users\jesus\source\repos\ejemplo de problema real\ejemplo de problema real\bin\Debug\ejemplo de problema real.exe
+C:\Users\jesus\source\repos\ejemplo de problema real\ejemplo de problema real\bin\Debug\ejemplo de problema real.pdb
+C:\Users\jesus\source\repos\ejemplo de problema real\ejemplo de problema real\obj\Debug\ejemplo de problema real.csproj.AssemblyReference.cache
+C:\Users\jesus\source\repos\ejemplo de problema real\ejemplo de problema real\obj\Debug\ejemplo_de_problema_real.Form1.resources
+C:\Users\jesus\source\repos\ejemplo de problema real\ejemplo de problema real\obj\Debug\ejemplo_de_problema_real.Properties.Resources.resources
+C:\Users\jesus\source\repos\ejemplo de problema real\ejemplo de problema real\obj\Debug\ejemplo de problema real.csproj.GenerateResource.cache
+C:\Users\jesus\source\repos\ejemplo de problema real\ejemplo de problema real\obj\Debug\ejemplo de problema real.csproj.CoreCompileInputs.cache
+C:\Users\jesus\source\repos\ejemplo de problema real\ejemplo de problema real\obj\Debug\ejemplo de problema real.exe
+C:\Users\jesus\source\repos\ejemplo de problema real\ejemplo de problema real\obj\Debug\ejemplo de problema real.pdb
